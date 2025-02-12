@@ -1,0 +1,44 @@
+.content{
+    text-align:right;
+   
+ }
+ .content1{
+    text-decoration: none;
+    color:white;
+
+ }
+ .container1{
+    background-color: black;
+    color:white;
+    padding:30px;
+ }
+ .chucai{
+    position: relative;
+    bottom: 100px;
+ }
+ .maunhat{
+    background-color: rgb(182, 181, 178);
+    padding: 50px;
+ }
+ .chinhanh{
+    border-radius: 52%;
+ }
+ .button{
+ background-color: black;
+ width: 20%;
+ padding: 10px;
+ }
+ .coco{
+    color: aliceblue;
+ }
+ .cuoii{
+    background-color: rgb(217, 217, 218);
+    text-align: center;
+    padding: 10px;
+ }
+.mauchu1{
+    color: black;
+}
+.mauchu2{
+    color: black;
+}

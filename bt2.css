@@ -1,0 +1,24 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+ }
+ .content{
+    background-color:#e2dcdc;
+    padding:10px;
+    width: 250px;
+    height: 280px;
+    border-radius: 5px;
+ }
+ .content1{
+    background-color: white;
+    border-radius: 5px;
+    padding:20px;
+ }
+ .button{
+    background-color: rgb(38, 175, 243);
+    color: white;
+    border-radius: 5px;
+    width: 165px;
+    padding:5px;
+ }

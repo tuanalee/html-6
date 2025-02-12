@@ -1,0 +1,18 @@
+.content{
+    text-align: center;
+    background-color: blue;
+    color: aliceblue;
+    padding:10px;
+}
+.cangiua{
+    text-align: center;
+}
+.canlen{
+    position: relative;
+    bottom: 100px;
+}
+.mausac{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 10px;
+}
